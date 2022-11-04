@@ -1,0 +1,2 @@
+O meu primeiro projeto desse bootcamp foi usar os conceitos básicos de Git/GitHub, com o objetivo de criar um repositório
+visando organizar, compartilhar e desenvolver minhas habilidades.
