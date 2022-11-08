@@ -1,6 +1,6 @@
 /*
-Uma sala contem 5 alunos e para cada aluno foi sorteado um número de 1-100
-Faça um programa que receba os 5 números sorteados para os alunos e mostre o maior
+
+Faça um programa que receba os 5 números sorteados  e mostre o maior
 número sorteado
 
 entrada 
